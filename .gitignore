@@ -1,0 +1,13 @@
+
+.DS_Store
+ *.pyc
+__pycache__/
+
+#ignore IDE (Pycharm) files
+*.idea
+.idea/
+*.xml
+*.iml
+
+#ignore all logs
+*.log
